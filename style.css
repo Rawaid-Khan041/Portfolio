@@ -1,0 +1,467 @@
+.theader {
+    width: 90%;
+    margin: 0 auto;
+    background-color: white;
+
+}
+.footer{
+
+}
+
+.appbox {
+    display: flex;
+    gap: 120px;
+
+    width: 100%;
+}
+
+.apptext h1 {
+    font-size: 50px;
+    display: flex;
+    color:
+        #002265;
+
+}
+
+.apptext h2 {
+    color: #002265;
+}
+
+.apptext p {
+    font-size: large;
+    color: #082032;
+
+    display: flex;
+
+}
+
+
+/* @media only screen and (max-width: 1100px) {
+
+    .appimg{
+margin-left: 40px;
+       
+       
+    }
+} */
+.apptext {
+    padding-left: 30px;
+    padding-top: 5px;
+}
+
+.apptext img {
+    padding-top: 75px;
+}
+
+/* @media only screen and (max-width: 2621px) {
+
+    .header{
+width: 60%;
+
+ .appimg img{
+    
+    width: 100%;
+    
+}      
+       
+    }
+} */
+@media only screen and (max-width: 1333px) {
+
+    .appimg img {
+        height: 450px;
+
+
+    }
+}
+
+@media only screen and (max-width: 1335px) {
+
+    .appbox {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: space-evenly;
+        gap: 90px;
+
+
+    }
+}
+
+@media only screen and (max-width: 1100px) {
+
+    .appbox {
+        margin-right: 3000px;
+
+
+    }
+}
+
+@media only screen and (max-width: 1335px) {
+
+    .apptext {
+
+        padding-left: 260px;
+
+
+    }
+}
+
+
+@media only screen and (max-width: 1100px) {
+
+    .apptext {
+
+        padding-left: 260px;
+
+
+    }
+}
+
+@media only screen and (max-width: 944px) {
+
+    .apptext {
+
+        padding-left: 160px;
+
+
+    }
+}
+
+@media only screen and (max-width: 790px) {
+
+    .apptext {
+
+        padding-left: 100px;
+
+
+    }
+}
+
+@media only screen and (max-width: 470px) {
+
+    .apptext {
+
+        padding-left: 70px;
+
+
+    }
+}
+
+@media only screen and (max-width: 426px) {
+
+    .apptext {
+
+        padding-left: 50px;
+
+
+    }
+}
+
+@media only screen and (max-width: 388px) {
+
+    .apptext {
+
+        padding-left: 30px;
+
+
+    }
+}
+
+@media only screen and (max-width: 370px) {
+
+    .apptext h1 {
+        font-size: large;
+
+
+    }
+
+}
+
+@media only screen and (max-width: 370px) {
+
+    .apptext p {
+        font-size: medium;
+
+
+    }
+
+}
+
+@media only screen and (max-width: 150px) {
+
+    .apptext h1 {
+        font-size: x-small;
+
+
+    }
+
+
+}
+
+@media only screen and (max-width: 127px) {
+
+    .apptext h1 {
+        font-size: xx-small;
+
+
+    }
+
+}
+
+.appimg img {
+
+    width: 100%;
+
+}
+
+
+
+.text {
+    text-align: center;
+}
+
+.text h1 {
+    color:
+        #14279B;
+}
+
+.text span {
+   color: 
+   #002265;
+}
+
+
+
+
+
+
+
+.box4first h2 {
+    color: #002265;
+}
+
+.box4first {
+    background-color: white;
+    border-radius: 20px;
+    border: #007E85;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    width: 380px;
+    text-align: center;
+}
+
+@media only screen and (max-width: 390px) {
+    .box4first {
+
+        width: 300px;
+
+    }
+}
+
+@media only screen and (max-width: 290px) {
+    .box4first {
+
+        width: 250px;
+
+    }
+}
+
+@media only screen and (max-width: 390px) {
+    .box4first img {
+
+        width: 280px;
+
+    }
+}
+
+@media only screen and (max-width: 290px) {
+    .box4first img {
+
+        width: 230px;
+
+    }
+}
+
+@media only screen and (max-width: 290px) {
+    .box4first p {
+
+        font-size: 15px;
+
+    }
+}
+
+@media only screen and (max-width: 253px) {
+    .box4first p {
+
+        font-size: 13px;
+
+    }
+}
+@media only screen and (max-width: 1260px) {
+    .box4first {
+
+        margin-bottom: 40px;
+    }
+}
+
+.box4 {
+    display: flex;
+    gap: 3px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+
+/* .............. */
+
+
+
+
+.box5first {
+    background-color: white;
+    border-radius: 20px;
+    border: #007E85;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    width: 380px;
+    text-align: center;
+}
+
+@media only screen and (max-width: 390px) {
+    .box5first {
+
+        width: 300px;
+
+    }
+}
+
+@media only screen and (max-width: 290px) {
+    .box5first {
+
+        width: 250px;
+
+    }
+}
+
+@media only screen and (max-width: 390px) {
+    .box5first img {
+
+        width: 280px;
+
+    }
+}
+@media only screen and (max-width: 310px) {
+    .txt{
+
+        font-size: small;
+
+    }
+}
+
+@media only screen and (max-width: 290px) {
+    .box5first img {
+
+        width: 230px;
+
+    }
+}
+
+@media only screen and (max-width: 290px) {
+    .box5first p {
+
+        font-size: 15px;
+
+    }
+}
+
+@media only screen and (max-width: 253px) {
+    .box5first p {
+
+        font-size: 13px;
+
+    }
+}
+@media only screen and (max-width: 1260px) {
+    .box5first {
+
+        margin-bottom: 40px;
+    }
+}
+
+.box5 {
+    display: flex;
+    gap: 3px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+
+.img2{
+width: 360px;
+}
+
+
+.text1 {
+    text-align: center;
+}
+
+.text1 h1 {
+    color:
+        #14279B;
+}
+
+.text1 span {
+   color: 
+   #002265;
+}
+
+.box6{
+    display: block;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  
+}
+@media only screen and (max-width: 1070px) {
+    .application{
+        margin-bottom: 40px;
+    }
+}
+
+/* .footertext div{
+    color: black;
+  
+    text-align: center;
+    
+    position: absolute;
+    margin-left: 30%;
+    margin-bottom: 60PX;
+  
+} */
+.footer div {
+    bottom: 0px;
+}
+
+.footer h2 {
+    font-size: 2vh;
+}
+
+.footer {
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.footer img {
+    width: 100%;
+}
+
+.footer div {
+    position: absolute;
+    bottom: 5px;
+background-color: transparent;
+}
+
+.footer h2 {
+        color: white;
+    font-size: 2.5rem;
+}
+
